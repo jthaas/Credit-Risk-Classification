@@ -10,7 +10,7 @@ An overview of the analysis: Explain the purpose of this analysis.
 The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 
 
- precision    recall  f1-score   support
+                precision   recall   f1-score   support 
 
            0       1.00      0.99      1.00     18765
            1       0.85      0.91      0.88       619
