@@ -9,14 +9,8 @@ An overview of the analysis: Explain the purpose of this analysis.
 
 The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 
-                precision   recall   f1-score   support 
+         ![image](https://github.com/jthaas/Credit-Risk-Classification/assets/141502102/c0bc4bb4-2f67-4cb7-816b-e7ac26f36915)
 
-           0       1.00      0.99      1.00     18765
-           1       0.85      0.91      0.88       619
-
-    accuracy                                      0.99     19384
-   macro avg       0.92      0.95      0.94     19384
-weighted avg       0.99      0.99      0.99     19384
 
 
 
